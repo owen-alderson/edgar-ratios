@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "edgar-ratios"
-version = "2.0.0"
+version = "2.0.1"
 description = "Financial ratios straight from SEC filings: type a ticker, get 23 ratios over five years, every number traced to the 10-K it came from."
 readme = "README.md"
 requires-python = ">=3.10"
