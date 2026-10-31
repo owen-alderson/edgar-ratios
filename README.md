@@ -156,6 +156,10 @@ push a `vX.Y.Z` tag and GitHub Actions publishes to PyPI.
 The original Streamlit app, where you typed the figures in by hand, is kept at tag
 [`v1-streamlit`](https://github.com/owen-alderson/edgar-ratios/tree/v1-streamlit).
 
+## Disclaimer
+
+Not investment advice. The ratios are computed from companies' own SEC filings, and `--commentary` is written by Claude, which can be wrong; check anything you rely on against the filing itself. Not affiliated with or endorsed by the SEC or the companies shown.
+
 ## License
 
 MIT
